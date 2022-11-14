@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b1ff1c3a10456419e08fe45ef672ee, type: 3}
+  m_Name: PotionGreen
+  m_EditorClassIdentifier: 
+  itemName: PotionGreen
+  itemDesc: 
+  itemTpye: 1
+  itemImage: {fileID: 21300000, guid: 46a103dbf65b0064ba85e0e783425193, type: 3}
+  itemPrefab: {fileID: 3839264673506458228, guid: c983fb0755f8785408ca916ef4d04e06, type: 3}
+  weaponType: 
